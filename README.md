@@ -1,5 +1,7 @@
-# SE-MiniProjet
+# SE-MiniProjet using Machin's formula
 
 PI computation with BBP algorithm and threads
 
-   Documentation: [https://fr.wikipedia.org/wiki/Formule_BBP], [http://www.davidhbailey.com/dhbpapers/bbp-alg.pdf], [https://www.cs.ox.ac.uk/jeremy.gibbons/publications/spigot.pdf], [http://www.cecm.sfu.ca/~jborwein/Expbook/Manuscript/Related%20files/spigot.pdf], [http://bellard.org/pi/], [https://en.wikipedia.org/wiki/Borwein%27s_algorithm]
+   Documentation: http://www.codeproject.com/Articles/11692/Calculate-pi-to-one-million-decimal-places
+   https://en.wikipedia.org/wiki/Approximations_of_%CF%80
+   
