@@ -49,8 +49,8 @@ CyclicBarrier cb;
 
     /**
      * Compute the value of pi to the specified number of
-     * digits after the decimal point.  The value is
-     * computed using Machin's formula:
+     * digits after the decimal point.  
+     * The value is computed using Machin's formula:
      *
      *          pi/4 = 4*arctan(1/5) - arctan(1/239)
      *
@@ -119,9 +119,7 @@ CyclicBarrier cb;
         return result;
     }
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         int digits = 100000;
         ArctanPi m = new ArctanPi(digits);
@@ -140,4 +138,3 @@ CyclicBarrier cb;
 
 }
 
-    
